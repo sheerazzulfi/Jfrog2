@@ -74,14 +74,14 @@
   </build>
   <distributionManagement>
     <repository>
-        <id>central</id>
+        <id>remote</id>
         <name>DESKTOP-AEFH5G0-releases</name>
-        <url>http://localhost:8082/artifactory/Dem2</url>
+        <url>http://localhost:8082/artifactory/J2</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>DESKTOP-AEFH5G0-snapshots</name>
-        <url>http://localhost:8082/artifactory/Dem3</url>
+        <url>http://localhost:8082/artifactory/J1</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
